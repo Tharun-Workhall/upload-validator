@@ -1,0 +1,38 @@
+{
+  "name": "upload-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharun-Workhall/upload-validator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tharun-Workhall/upload-validator/issues"
+  },
+  "homepage": "https://github.com/Tharun-Workhall/upload-validator#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "crypto": "^1.0.1",
+    "express": "^4.21.2",
+    "file-type": "^20.4.0",
+    "fs": "^0.0.1-security",
+    "jpeg-js": "^0.4.4",
+    "jszip": "^3.10.1",
+    "mime-types": "^2.1.35",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.17.1",
+    "pdf-parse": "^1.1.1",
+    "pdfjs-dist": "^4.10.38",
+    "util": "^0.12.5",
+    "xml2js": "^0.6.2"
+  }
+}
